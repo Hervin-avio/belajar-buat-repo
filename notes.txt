@@ -1,0 +1,4 @@
+git init -> inisialisasi folder github
+npm init -> menjelaskan project kita pakai package apa aja
+remote dengan perintah : git remote add origin https://github.com/Hervin-avio/belajar-buat-repo.git
+git add . -> prepare semua file yg terupdate utk di upload
